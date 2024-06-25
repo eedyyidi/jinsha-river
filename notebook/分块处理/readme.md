@@ -20,6 +20,4 @@ s1_d106 (10块): /home/eedy/data/jinsha/s1_d106/minptpy_*
 
 s1_d135 (8块)  : /home/eedy/data/jinsha/s1_d135/minptpy_*
 
-s1_d135 (8块)  : /home/eedy/data/jinsha/s1_d135/minptpy_*
-
 s1_d164 (1块)  : /home/eedy/data/jinsha/s1_d164/minptpy_*
